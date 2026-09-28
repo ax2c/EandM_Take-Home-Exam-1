@@ -1,5 +1,6 @@
 #Andrew code for take home 1 
-
+#I did not mark this at each individual point it was uesd, but I used gemini to help me with the actual plotting thats done here. 
+#cs 121 did NOT prepare us for making graphs </3
 
 ####
 # Plot the vector field of a line charge in the
